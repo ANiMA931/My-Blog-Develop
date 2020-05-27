@@ -74,6 +74,18 @@
     margin-bottom: 0.3em !important;
 }
 
+.m-margin-top-small {
+    margin-top: 0.5em !important;
+}
+
+.m-margin-top-large {
+    margin-top: 2em !important;
+}
+
+.m-margin-top {
+    margin-top: 1.5em !important;
+}
+
 /*-------opacity---------*/
 .m-opacity-mini {
     opacity: 0.8 !important;
@@ -92,6 +104,6 @@
 }
 
 /*------color--------*/
-.m-black{
+.m-black {
     color: #333 !important;
 }
