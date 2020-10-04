@@ -135,6 +135,14 @@ body{
     top: 0;
     right: 0;
 }
+.m-fixed{
+    position:fixed !important;
+    z-index: 10 !important;
+}
+.m-right-bottom{
+    bottom: 35% !important;
+    right: 0 !important;
+}
 /*------color--------*/
 .m-black {
     color: #333 !important;
